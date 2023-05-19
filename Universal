@@ -1,10 +1,10 @@
---[[Made by ThroughTheFireAndFlames#9925
+--[[Made by ThroughTheFireAndFlames#9925]
 
 -- Note1: It saves your positions in diffrent games too.
 -- Note2: To reset your location turn autoexe false, goto workspace and reset every folder named "LocationFile" you see there.
 -- Note3: When u execute it for the first time you wont feel any change so after executing put this inside autoexe folder and restart game.
 
-[--Missing Variables--]
+--[Missing Variables]--
 getgenv().AutoExecute = true -- Dont touch.
 getgenv().Keybind = "V" -- Change if you want.
 getgenv().AutoTeleport = true -- If you set it false then you have to press the keybind u set in time. [Dont touch]
