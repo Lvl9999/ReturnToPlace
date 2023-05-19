@@ -1,8 +1,8 @@
 --[[Made by ThroughTheFireAndFlames#9925]
 
 -- Note1: It saves your positions in diffrent games too.
--- Note2: To reset your location turn autoexe false, goto workspace and reset every folder named "LocationFile" you see there.
--- Note3: When u execute it for the first time you wont feel any change so after executing put this inside autoexe folder and restart game.
+-- Note2: To reset your location turn autoexe false, goto workspace and reset every folder named "LocationFile".
+-- Note3: When u execute for the first time u wont feel any change so after executing put this inside autoexe and rejoin.
 
 --[Missing Variables]--
 getgenv().AutoExecute = true -- Dont touch.
