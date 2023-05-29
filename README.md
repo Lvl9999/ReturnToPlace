@@ -1,4 +1,3 @@
-# ReturnToPlace
 
 ## What it does:
 
